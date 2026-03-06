@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://windmillwellnessranch.github.io/windmill-wellness-ra-73f05/sitemap.xml
